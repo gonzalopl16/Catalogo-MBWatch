@@ -10,8 +10,8 @@ h1, h2, h3, h4, h5 {
 }
 
 #riboon{
-    background-color: #575304;
-    background-image: repeating-linear-gradient(45deg, transparent, transparent 25px, rgb(219, 193, 73) 25px 40px);
+    background-color: #a6eb8b;
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 25px, rgb(255, 234, 140) 25px 40px);
     max-height: 300px;
 }
 
